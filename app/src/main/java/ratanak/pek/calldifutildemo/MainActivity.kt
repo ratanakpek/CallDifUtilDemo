@@ -18,8 +18,7 @@ class MainActivity : AppCompatActivity() {
         animalNames.add("Horse")
         animalNames.add("Cow")
         animalNames.add("Camel")
-        animalNames.add("Sheep")
-        animalNames.add("Goat")
+
 
         // set up the RecyclerView
 
